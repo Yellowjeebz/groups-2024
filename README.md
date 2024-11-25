@@ -13,9 +13,13 @@ The goal of SSH RSS is to help students optimise their meal preparation by lever
 ### Keeping track
 Screenshots: https://docs.google.com/document/d/1rPDiQx314RmUi7b1leXQcHVeWyWl4evqL6dzKL6eDlM/edit?usp=sharing 
 
+#### Documentation
+[Engineering Design Review (EDR)](src/docs/LukeThornley%20EDR%20-%202398180.pdf)
+[Log of progress](src/docs/log.md)
+
 ### Key Features:
 
----
+---- 
 
 ## **IDEs / Languages Used**  
 ### **IDEs**:  
