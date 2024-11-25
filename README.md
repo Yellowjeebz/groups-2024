@@ -1,24 +1,59 @@
-# The Prototype - Groups (2024)
+# **The PRP - SSH RSS**  
+**Note:** This is the forked `README.md` for 'The PRP'. **Do not overwrite the main README.md with this!**
 
-This repository is used to manage the groups for "The Prototype" assignment. All groups are stored in the [`./config/groups.yaml` file](config/groups.yaml).
+---
 
-## Adding your group
+## **Project Overview**  
+This project is for developing the **Recipe Suggestion Solution (RSS)** for the Student Smart Homes (SSH) ecosystem.  
 
-Fork this repository to your account, clone your fork locally, and edit `./config/groups.yaml` to add your group with a name and a list of members. For example, add the following to the file. When adding a new group, you do **not** need to include an `"id"` field:
+The goal of SSH RSS is to help students optimise their meal preparation by leveraging smart home devices like the SSH Camera and SSH Cloud. The solution identifies available ingredients in the fridge, suggests complete or semi-complete recipes, and generates shopping lists for missing ingredients.  
 
-```yaml
-# existing groups...
+---
 
-- name: "My really creative group name"
-  members:
-    - "2xxxxx0"
-    - "2xxxxx1"
-    - "2xxxxx2"
-    - "2xxxxx3"
-```
+### Keeping track
+Screenshots: https://docs.google.com/document/d/1rPDiQx314RmUi7b1leXQcHVeWyWl4evqL6dzKL6eDlM/edit?usp=sharing 
 
-Replace `2xxxxxx` with your own student ID and those of the others in your group. Once you have finished editing the file, stage the changes, commit them, and push the changes to your clone of the repository. Then create a pull request against this repository.
+### Key Features:
 
-## Editing your group
+---
 
-To make changes to your group, follow the same process as above, except instead of adding a new YAML object to `./config/groups.yaml`, edit the existing one. Do not edit the `"id"` field that was added automatically.
+## **IDEs / Languages Used**  
+### **IDEs**:  
+- Visual Studio Code (Frontend & Backend).  
+
+
+### **Languages**:  
+- **Backend**: Java
+- **Frontend**: 
+- **Database**: SQL for relational data.  
+
+---
+
+## **Project Responsibilities**  
+### **Team Members and Roles**  
+
+
+### **Modules and Leads**  
+- **Fridge Content Management**: 
+
+
+---
+
+## **Deadlines and Goals**  
+| **Milestone**             | **Task**                                                | **Deadline**       |
+|---------------------------|--------------------------------------------------------|--------------------|
+| Milestone 1               | Implement fridge contents backend logic                ||
+| Milestone 2               | Recipe data API                        ||
+| Milestone 3               | Develop recipe categorisation and shopping list logic  ||
+| Milestone 4               | Create UI for fridge contents and recipe suggestions   ||
+| Milestone 5               | Testing and optimisation for deployment                ||
+
+---
+
+## **Other Notes**
+- **Dependencies**:
+  - Libraries: 
+- **Testing Frameworks**:  
+  - JUnit
+
+---
