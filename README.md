@@ -8,6 +8,11 @@ This project is for developing the **Recipe Suggestion Solution (RSS)** for the 
 
 The goal of SSH RSS is to help students optimise their meal preparation by leveraging smart home devices like the SSH Camera and SSH Cloud. The solution identifies available ingredients in the fridge, suggests complete or semi-complete recipes, and generates shopping lists for missing ingredients.  
 
+---
+
+### Keeping track
+Screenshots: https://docs.google.com/document/d/1rPDiQx314RmUi7b1leXQcHVeWyWl4evqL6dzKL6eDlM/edit?usp=sharing 
+
 ### Key Features:
 
 ---
