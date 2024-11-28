@@ -23,18 +23,22 @@ Screenshots: https://docs.google.com/document/d/1rPDiQx314RmUi7b1leXQcHVeWyWl4ev
 
 ## **IDEs / Languages Used**  
 ### **IDEs**:  
-- Visual Studio Code (Frontend & Backend).  
+- IntelliJ (Frontend & Backend).  
 
 
 ### **Languages**:  
 - **Backend**: Java
-- **Frontend**: 
+- **Frontend**: Java
 - **Database**: SQL for relational data.  
 
 ---
 
 ## **Project Responsibilities**  
 ### **Team Members and Roles**  
+- **Git and Project Manager-** Phoebe Farrelly
+- **Database Lead-** Maya Sahota
+- **Lead Developer-** Luke Thornley
+- **GUI Designer-** Luke Deery
 
 
 ### **Modules and Leads**  
@@ -46,8 +50,8 @@ Screenshots: https://docs.google.com/document/d/1rPDiQx314RmUi7b1leXQcHVeWyWl4ev
 ## **Deadlines and Goals**  
 | **Milestone**             | **Task**                                                | **Deadline**       |
 |---------------------------|--------------------------------------------------------|--------------------|
-| Milestone 1               | Implement fridge contents backend logic                ||
-| Milestone 2               | Recipe data API                        ||
+| Milestone 1               | Design Database                                        ||
+| Milestone 2               | Populate database with fridge and recipe data          ||
 | Milestone 3               | Develop recipe categorisation and shopping list logic  ||
 | Milestone 4               | Create UI for fridge contents and recipe suggestions   ||
 | Milestone 5               | Testing and optimisation for deployment                ||
